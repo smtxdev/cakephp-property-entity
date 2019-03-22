@@ -1,0 +1,13 @@
+{
+    "name": "smtxdev/cakephp-property-entity",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "require": {
+        "cakephp/cakephp": "^3"
+    },
+    "autoload": {
+        "psr-4": {
+            "PropertyEntity\\": "src/"
+        }
+    }
+}
