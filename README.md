@@ -1,0 +1,1 @@
+# PropertyEntity plugin for CakePHP
