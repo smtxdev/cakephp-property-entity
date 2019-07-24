@@ -6,7 +6,7 @@ namespace PropertyEntity\Model\Entity;
 use Cake\ORM\Entity;
 
 /**
- * Class VerboseEntity
+ * Class PropertyEntity
  */
 class PropertyEntity extends Entity
 {
